@@ -1,7 +1,7 @@
 # web_development_day-1
 ## I'm a web developer
-### My skill :
-             HTML5 ,CSS3 , JavaScript , PHP, Bootstrap.
+### My skill :  HTML5 ,CSS3 , Bootstrap, JavaScript , PHP.
+            
              
 ~~~html
 <html>
@@ -13,3 +13,4 @@
    
   </body>
 </html>
+~~~
